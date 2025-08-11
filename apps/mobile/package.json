@@ -1,0 +1,19 @@
+{
+  "name": "mobile",
+  "private": true,
+  "scripts": {
+    "dev": "expo start",
+    "build": "echo 'build mobile'",
+    "lint": "eslint . --ext .tsx,.ts"
+  },
+  "dependencies": {
+    "expo": "^50.0.0",
+    "react": "18.2.0",
+    "react-native": "0.73.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.27",
+    "@types/react-native": "^0.73.0",
+    "typescript": "^5.3.3"
+  }
+}
