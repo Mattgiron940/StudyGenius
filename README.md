@@ -1,0 +1,2 @@
+# StudyGenius
+AI
